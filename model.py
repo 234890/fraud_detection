@@ -7,4 +7,4 @@ def model2():
 def model3():
     print("Adding mode 3")
 
-print("model 2 is the best ")
+print("model 1 is the best ")
